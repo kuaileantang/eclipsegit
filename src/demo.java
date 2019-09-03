@@ -20,6 +20,7 @@ public class demo {
 		// 四舍五入
 		System.out.println(Math.floor(2.5));// 向下取整
 		System.out.println(Math.round(2.5));// 四舍五入
+		System.out.println("left");
 
 	}
 
